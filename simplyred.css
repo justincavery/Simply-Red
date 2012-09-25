@@ -1,1 +1,17 @@
 /* ECU Simple Red Project - by Justin Avery www.squiz.com.au @justinavery */
+
+
+#header {
+	max-width: 900px;
+	width: 100%;
+	
+}
+
+#nav-global li a {
+color: red;
+text-decoration: none;}
+
+#nav-global li a:hover {
+
+	border-bottom: 1px dashed red;
+}
